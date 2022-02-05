@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-position: center;
+	background-size: cover !important;
+	color: white;
+	font-weight: bold;
+}
+
+h1 {
+	width: 100%;
+	font-size: 27px !important;
+}
+
+span {
+	font-size: 18px;
+	color: red;
+}
+
+canvas {
+	background: pink;
+	border-radius: 20px;
+}
